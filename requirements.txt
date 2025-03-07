@@ -1,0 +1,7 @@
+requests
+pandas
+ta
+telegram
+asyncio
+flask
+gunicorn
